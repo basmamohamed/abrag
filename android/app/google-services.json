@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1063643439573",
+    "firebase_url": "https://drabraj-8e227.firebaseio.com",
+    "project_id": "drabraj-8e227",
+    "storage_bucket": "drabraj-8e227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063643439573:android:e77689dcab8e0c30",
+        "android_client_info": {
+          "package_name": "com.abrag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063643439573-a6p7df3s826lqkvsv3q1329m4sehi3q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCWQtb5I5o2lYJF9PclCEJL46hhSsqeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063643439573-a6p7df3s826lqkvsv3q1329m4sehi3q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
